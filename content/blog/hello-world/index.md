@@ -4,7 +4,7 @@ date: "2022-07-14"
 description: My first blogpost
 ---
 
-This is my blog made with gatsby
+This is my blog made with gatsby, utilizing graphql.
 
 Stuff that markdown can do:
  - Paragraph
@@ -26,4 +26,4 @@ This is a code block
 ```
 ---
 [This is a link](#)
-![This is an image](https://picsum.photos/1920/1080 "Image Title")
+![This is an image](https://picsum.photos/1920/1080)

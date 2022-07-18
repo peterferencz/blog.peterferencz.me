@@ -1,8 +1,12 @@
-/* CSS Custom Properties Definitions */
+@font-face {
+  font-family: "UbunuMono";
+  src: url("/UbuntuMono.ttf");
+}
 *,
 :after,
 :before {
   box-sizing: border-box;
+  font-family: "UbunuMono";
 }
 
 html {
@@ -100,6 +104,7 @@ a {
 }
 .global-wrapper main .blog-post header h1 {
   margin-bottom: 0.25rem;
+  font-size: 3rem;
 }
 .global-wrapper main .blog-post header p {
   margin-top: 0.25rem;
